@@ -1,5 +1,6 @@
 # oibsip_taskno_1
 Exploratory Data Analysis (EDA) on Retail Sales Data
+
 Description:
 In this project, we will work with a dataset containing information about retail sales. The goal is
 to perform exploratory data analysis (EDA) to uncover patterns, trends, and insights that can
